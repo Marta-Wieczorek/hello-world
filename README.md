@@ -1,4 +1,4 @@
 # hello-world
-Pierwsze repozytorium
+## Pierwsze repozytorium
 
-Przygotowania do kursu i nowej ścieżki.
+*Przygotowania do kursu i nowej ścieżki.*
